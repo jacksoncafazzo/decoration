@@ -1,0 +1,25 @@
+.column1 {
+  width: 420px;
+  float: left;
+  border: 2px solid black;
+  background-color:yellow;
+}
+.column2 {
+  width: 420px;
+  float: left;
+  border: 2px solid black;
+  background-color:orange;
+}
+.column3 {
+  width: 420px;
+  float: left;
+  border: 2px solid black;
+  background-color:pink;
+}
+
+h3 {
+  text-align: center
+}
+img {
+  padding: 10px;
+}
