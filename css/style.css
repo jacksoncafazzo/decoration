@@ -1,0 +1,9 @@
+.column {
+  width: 400px;
+  float: left;
+  border: 2px solid black;
+}
+
+h3 {
+  text-align: center
+}
